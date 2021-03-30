@@ -1,2 +1,2 @@
 # Google UI Clone
-https://torieloreginal.github.io/google-clone/
+https://renan4nandes.github.io/google-clone/
